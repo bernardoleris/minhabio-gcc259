@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./foto-bernardo.jpg" alt="Foto de Bernardo Leris" width="150" style="border-radius: 50%;">
+</p>
+
 # Bernardo Leris
 
 **Desenvolvedor de Software | Full Stack | Estudante de Sistemas de Informação**
@@ -70,3 +74,4 @@ Tenho experiência com desenvolvimento **front-end**, **back-end** e **full-stac
 - **Inglês:** Avançado
 
 ---
+
